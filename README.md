@@ -5,5 +5,6 @@ This is the official app for monitoring the tide in the city of Venice, develope
 
 The app allows to monitor the current tide in Venice and provides detailed tide forecasts for the next two days. It can tell you if different places around the city are flooded or if you can walk without getting wet. You can monitor the tide level in the most relevant places in the city (P.le Roma, Ferrovia, Ca' d'Oro, Rialto, San Marco, ecc.) and at all the ACTV ferry stops.
 
+<p align="center">
 [![Download it now!](http://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=venice.amphitrite)
-
+</p>
